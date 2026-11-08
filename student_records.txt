@@ -1,0 +1,3 @@
+Muhammad Ali,CS-2024-001,Tariq Mahmood,Awan,Lahore,3.85
+Fatima Zahra,CS-2024-002,Ghulam Rasool,Syed,Rawalpindi,3.92
+Bilal Khan,CS-2024-003,Shahid Khan,Pathan,Peshawar,3.40
